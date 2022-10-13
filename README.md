@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vytautas Daunoras</h1>
 <h3 align="center">Lecturer at Kaunas University of Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=euronymous1991&label=Profile%20views&color=0e75b6&style=flat" alt="euronymous1991" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=euronymous1991&label=Profile%20views&color=0e75b6&style=flat" alt="euronymous1991" /> </p>
+
 
 - 📫 How to reach me **vytautas.daunoras@ktu.lt**
 
