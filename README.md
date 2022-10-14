@@ -7,8 +7,11 @@
 
 - 📫 How to reach me **vytautas.daunoras@ktu.lt**
 
+- 📄 Researcher’s Profile [https://en.ktu.edu/scientist/vytautas.daunoras/](https://en.ktu.edu/scientist/vytautas.daunoras/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/vytautas-daunoras-90a7a7159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vytautas-daunoras-90a7a7159" height="30" width="40" /></a>
 <a href="https://fb.com/vytautas.daunoras.140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vytautas.daunoras.140" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucsylvyzkftoxmpockt8jtug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucsylvyzkftoxmpockt8jtug" height="30" width="40" /></a>
 </p>
