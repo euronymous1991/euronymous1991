@@ -19,7 +19,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_verilog_icon_130092.png" alt="VERILOG" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA=w240-h480-rw" alt="VHDL" width="40" height="40"/> </a> 
 <a href="https://www.keil.com/" target="_blank" rel="noreferrer"> <img src="https://images1.russianblogs.com/70/ef/efb41dec0aabd42ea1ce2a35416f181e.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+<a href="https://www.st.com/en/development-tools/stm32cubemx.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/16562333/54928769-ba986300-4f14-11e9-91d7-ecc6640d1989.png" alt="CubeMX" width="40" height="40"/> </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euronymous1991&show_icons=true&locale=en&layout=compact" alt="euronymous1991" /></p>
 
