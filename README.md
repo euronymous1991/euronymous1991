@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vytautas.daunoras@ktu.lt**
 
-- 📄 Researcher’s Profile [https://en.ktu.edu/scientist/vytautas.daunoras/](https://en.ktu.edu/scientist/vytautas.daunoras/)
+- 📄 Researcher’s Profile: [https://en.ktu.edu/scientist/vytautas.daunoras/](https://en.ktu.edu/scientist/vytautas.daunoras/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
