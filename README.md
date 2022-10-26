@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vytautas.daunoras@ktu.lt**
 
-- 📄 Researcher’s Profile: [https://en.ktu.edu/scientist/vytautas.daunoras/](https://en.ktu.edu/scientist/vytautas.daunoras/)
+- 📄 Researcher’s Profile (KTU): [https://en.ktu.edu/scientist/vytautas.daunoras/](https://en.ktu.edu/scientist/vytautas.daunoras/)
 
 - 📄 Scopus: [https://www.scopus.com/authid/detail.uri?authorId=57195283821](https://www.scopus.com/authid/detail.uri?authorId=57195283821)
 
