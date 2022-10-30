@@ -32,5 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=euronymous1991&show_icons=true&locale=en" alt="euronymous1991" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=euronymous1991&" alt="euronymous1991" /></p>
-
+ 
 2022-10-29
